@@ -19,3 +19,10 @@ a {
   padding-right: 10px;
   background: red;
 }
+
+figcaption {
+  font-size: 12px;
+  text-align: center;
+}
+
+
